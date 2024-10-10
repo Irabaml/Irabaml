@@ -148,17 +148,7 @@ Dim col2 As Long
  Next ws
 End Sub
 
-' Separate VBA script files
-Sub separatesheets()
-Dim ws As Worksheet
-'loop in each worksheet
-For Each ws In ThisWorkbook.Worksheets
-ws.Copy
-With ActiveWorkbook
-.SaveAs Filename:=ws.name
-End With
-Next ws
-End Sub
+
 
 
 

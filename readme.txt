@@ -1,6 +1,6 @@
 The challenge's purpose is to calculate the Quarterly change price, percent change, and total volume after the system has displayed the greatest percentage increase, decrease, and total volume. In addition, the system codes must work through each sheet.
 My module was named stockdata1(), and after I declared and initialized the necessary variables that I used in this challenge.
-For example, I defined the following variable as:
+For example, I defined the following variables such as:
 •	Ws for worksheet
 •	Count for the row 
 •	Total volume for the sum of the volume
@@ -11,7 +11,7 @@ For example, I defined the following variable as:
 •	Col2 to pull the information concerning the last close value for each ticker name in the column
 I created the headers manually by using the indexes of cells 
 I defined the last row that contains the data, and with it, I managed to create the loop that helped me to analyze the condition and pull the requirement information _ please find the details in the comments in the codes.
-I used the different functions and objects:
+I used the different functions and objects such as:
 •	WorksheetFunction.Max for determining the maximum number
 •	WorksheetFunction.Min for determining the minimum number
 •	EntireColumn.Hidden hiding the entire columns that were not needed but the columns helped me to find the required calculation
@@ -19,5 +19,5 @@ I used the different functions and objects:
 •	Interior.Color for terminating the colors needed
 •	offset for pointing the exact cells that I needed to use to operate
 
-I Separated VBA script files by using the Export File optoin and save the file as .bas extension - I have attached two codes files ( one with .bas and another one with .txt) just in case one is not running since one is an exported file.
-I created a word file that contains the screenshots of the results (Q1,Q2,Q3 and Q4) instead of attaching one by one as image.
+I Separated VBA script files using the Export File option and saved the file as a .bas extension - I have attached two code files (one with .bas and another with .txt) just in case one is not running since one is an exported file.
+I created a Word file that contains the screenshots of the results (Q1, Q2, Q3 and Q4) instead of attaching them one by one as images.

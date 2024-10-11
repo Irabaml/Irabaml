@@ -11,7 +11,7 @@ For example, I defined the following variables such as:
 •	Col2 to pull the information concerning the last close value for each ticker name in the column
 I created the headers manually by using the indexes of cells 
 I defined the last row that contains the data, and with it, I managed to create the loop that helped me to analyze the condition and pull the requirement information _ please find the details in the comments in the codes.
-I used the different functions and objects such as:
+I used different functions and objects such as:
 •	WorksheetFunction.Max for determining the maximum number
 •	WorksheetFunction.Min for determining the minimum number
 •	EntireColumn.Hidden hiding the entire columns that were not needed but the columns helped me to find the required calculation
@@ -19,5 +19,5 @@ I used the different functions and objects such as:
 •	Interior.Color for terminating the colors needed
 •	offset for pointing the exact cells that I needed to use to operate
 
-I Separated VBA script files using the Export File option and saved the file as a .bas extension - I have attached two code files (one with .bas and another with .txt) just in case one is not running since one is an exported file.
-I created a Word file that contains the screenshots of the results (Q1, Q2, Q3 and Q4) instead of attaching them one by one as images.
+I Separated VBA script files using the Export File option and saved the file as a .bas extension.
+

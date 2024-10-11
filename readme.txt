@@ -19,4 +19,5 @@ I used the different functions and objects:
 •	Interior.Color for terminating the colors needed
 •	offset for pointing the exact cells that I needed to use to operate
 
-To be able to Separate VBA script files by using Export File ans save the file as .bas extension
+I Separated VBA script files by using the Export File optoin and save the file as .bas extension - I have attached two codes files ( one with .bas and another one with .txt 
+) just in case one is not running since one is an exported file.

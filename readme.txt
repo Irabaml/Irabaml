@@ -19,7 +19,5 @@ I used the different functions and objects:
 •	Interior.Color for terminating the colors needed
 •	offset for pointing the exact cells that I needed to use to operate
 
-I Separated VBA script files by using the Export File optoin and save the file as .bas extension - I have attached two codes files ( one with .bas and another one with .txt 
-) just in case one is not running since one is an exported file.
-
+I Separated VBA script files by using the Export File optoin and save the file as .bas extension - I have attached two codes files ( one with .bas and another one with .txt) just in case one is not running since one is an exported file.
 I created a word file that contains the screenshots of the results (Q1,Q2,Q3 and Q4) instead of attaching one by one as image.

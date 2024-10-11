@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "codes"
 Sub stockdata1()
 'declaring the variable
 Dim ws As Worksheet
